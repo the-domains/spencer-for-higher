@@ -58,12 +58,12 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/aidj/surya-namaskar'
 title: Surya Namaskar
-datePublished: '2016-11-06T22:10:20.809Z'
-dateModified: '2016-11-06T22:10:20.216Z'
+datePublished: '2016-11-06T22:10:44.339Z'
+dateModified: '2016-11-06T22:10:43.655Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-06-surya-namaskar.md
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
