@@ -25,6 +25,9 @@ navigation:
   - name: About
     id: e3240098-4c63-45b7-a76f-e4d93eeb5457
     type: content
+  - name: Blog
+    id: 1a795156-972f-4402-acb3-977e18b8a04d
+    type: content
 title: Wellness Investigator
 content: []
 description: Discover Your Higher Ability
