@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-06T19:52:04.789Z'
+datePublished: '2016-11-06T19:59:57.562Z'
 sourcePath: _posts/2016-10-31-yoga-for-alignment.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-06T19:52:04.221Z'
+dateModified: '2016-11-06T19:59:56.770Z'
 title: Yoga for Alignment
 publisher: {}
 description: Yoga is union.
