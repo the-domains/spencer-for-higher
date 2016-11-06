@@ -10,8 +10,8 @@ keywords: []
 description: ''
 app_links: []
 title: As a Man Thinketh (Golden Deer Classics)
-datePublished: '2016-11-06T22:20:30.578Z'
-dateModified: '2016-11-06T22:20:28.971Z'
+datePublished: '2016-11-06T22:27:13.138Z'
+dateModified: '2016-11-06T22:27:12.735Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-23-as-a-man-thinketh-golden-deer-classics.md
