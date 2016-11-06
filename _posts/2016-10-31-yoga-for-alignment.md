@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-06T19:49:31.633Z'
+datePublished: '2016-11-06T19:52:04.789Z'
 sourcePath: _posts/2016-10-31-yoga-for-alignment.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-06T19:49:31.238Z'
+dateModified: '2016-11-06T19:52:04.221Z'
 title: Yoga for Alignment
 publisher: {}
 description: Yoga is union.
@@ -14,8 +14,6 @@ url: yoga-for-alignment/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-location/?latitude=48.545705491847464&amp;longitude=10.832519531249998&amp;zoom=12" style=""></iframe>
-
 # Yoga for Alignment
 
 Yoga is union.
