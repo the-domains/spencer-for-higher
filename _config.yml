@@ -1,0 +1,38 @@
+typography_spectrum: 0.32796585838255093
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.10257808640645356
+  lightness: 0.610605539573209
+  saturation: 0.816955998562424
+  rhythmicContrast: 0.06044838941683716
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+github: true
+layout_spectrum: 0.5151681297752859
+author:
+  name: Spencer Harber
+  email: spencer_harber@yahoo.com
+  url: spencerforhigher.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fbe2d60-e4f8-442a-85f1-f98e9f39411b.jpg
+name: Spencer for Higher
+navigation:
+  - name: About
+    id: e3240098-4c63-45b7-a76f-e4d93eeb5457
+    type: content
+title: Wellness Investigator
+content: []
+description: Discover Your Higher Ability
+purpose:
+  - type: contact
+    url: 'mailto:spencerforhigher1@gmail.com'
+    label: Inquire
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSd-RapfHp8vAt84vpZ-92BobR4m-zBpVKcMsdBmXa02h4Yyzw/viewform
+    label: Free Yoga Sign Up!
