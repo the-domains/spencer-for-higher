@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-07T11:23:42.883Z'
+datePublished: '2016-11-07T14:07:26.592Z'
 sourcePath: _posts/2016-10-31-yoga-for-alignment.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T11:23:42.352Z'
+dateModified: '2016-11-07T14:07:25.957Z'
 title: Yoga for Alignment
 publisher: {}
 description: Yoga is union.
@@ -32,6 +32,7 @@ Spencer Harber M.A. RYT MT
 ---
 
 # Wake Up
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b2a8f4-8975-4ede-b143-bdf6ea356b4c.jpg)
 
 We typically die earlier than we'd like. I figure that I'll roar towards that inevitable day with a proactive prolonging of time by waking myself up at 5:00 AM.
 
@@ -42,6 +43,7 @@ Did I need to realize and accept that death is coming for me in order to feel th
 Lean on your obstacles long enough and they will expose their weakness to you, so be aware and prepared to see these obstacles become less and less. Time is perhaps humanities most common obstacle. How many times have you said to yourself, "I wish I had more time?" How many times have you heard others say, "I don't have enough time?" If we push against the obstacle, of time, we discover that we can make schedules, get better at planning, get better sleep and get up earlier---all to buy back some precious time and regain a feeling of some control in our harried lives.
 
 Point out the subtle and not-so-subtle contrasts in your day; be someone who takes note. Becoming a great "noticer" fuels your life with the quantity of quality to subconsciously seek for answers. When one becomes a "noticer" and takes the time to notice one gains a greater appreciation for the beauty and subtle nuances of our world. Just this morning I noticed the way my dog's coat has come in so fluffy and full, I gave her an extra nuzzle. I noticed the brisk morning's burning air hitting my lungs and smiled to be so alive. I noticed the stepping tea and appreciated my wife for ordering such lovely things. People like you better when you notice them. You'll like yourself better. Getting up earlier facilitates the time to become a "noticer."
+![Notice how precious?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35306d5c-07a3-44b0-bc30-ad76962fc925.jpg)
 
 Fuel your willpower with glucose from natural food and emotion from your nature to attain what the dull mind labels as "unattainable." I often fast until noon. From rising to my first meal hunger gnaws and subsides and I remember the power of occasional fasting to clear the mind and create greater energy. At 40 some might say a fit body is beyond them or unattainable. Rising earlier allows one to exert willpower over the body's desires and make your goals attainable.
 
