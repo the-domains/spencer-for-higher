@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-07T11:20:39.707Z'
+datePublished: '2016-11-07T12:49:30.114Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T11:20:39.247Z'
-title: Reinventing the alpha male
+dateModified: '2016-11-07T12:49:29.261Z'
+title: Reinventing the Alpha Male
 publisher: {}
 description: ''
 starred: true
@@ -14,7 +14,7 @@ url: reinventing-the-alpha-male/index.html
 _type: Article
 
 ---
-# Reinventing the alpha male
+# Reinventing the Alpha Male
 
 ### I coach "manly men" into emotionally intelligent dynamos through a higher consciousness. Guys, meet your alpha yogi.
 
