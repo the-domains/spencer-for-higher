@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-11-07T12:49:30.114Z'
+datePublished: '2016-11-07T19:28:23.902Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T12:49:29.261Z'
+dateModified: '2016-11-07T19:28:23.219Z'
 title: Reinventing the Alpha Male
 publisher: {}
-description: ''
+description: 'Our view of the Himalayas from our yoga ashram, Rishikesh, India 2016'
 starred: true
 url: reinventing-the-alpha-male/index.html
 _type: Article
@@ -23,6 +23,6 @@ _type: Article
 ### Strengthen your communication inwardly and outwardly.
 
 ### Create compassion by acknowledging your inner wisdom.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c8729bece76bf9d30cfd0e3c5850a952649b2c9.jpg)
+![Our view of the Himalayas from our yoga ashram, Rishikesh, India 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d95784b9-865b-432c-b745-1229e68a073b.jpg)
 
 ---
