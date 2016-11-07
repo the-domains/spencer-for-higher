@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-07T20:38:18.217Z'
+datePublished: '2016-11-07T20:39:39.947Z'
 sourcePath: _posts/2016-11-06-free-yoga-and-meditation-mix.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T20:38:17.478Z'
+dateModified: '2016-11-07T20:39:39.310Z'
 title: Free Yoga & Meditation Mix
 publisher: {}
 description: >-
