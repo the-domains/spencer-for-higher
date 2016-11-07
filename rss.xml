@@ -6,7 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Mon, 07 Nov 2016 20:39:14 GMT</lastBuildDate>
         <atom:link href="http://spencerforhigher.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Nov 2016 20:38:58 GMT</pubDate>
+        <pubDate>Mon, 07 Nov 2016 20:39:03 GMT</pubDate>
         <item>
             <title><![CDATA[Blog]]></title>
             <description><![CDATA[<article><h1>Blog</h1><p>Read quality life musings from a reformed dickhead! At Spencer for Higher, we cover the gamut of health, humor, wellness, yoga, cooking, massage, and much more! Click that shit!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d235b781-d995-4691-ab91-6a65de08d3e9.jpg"></article>]]></description>
@@ -27,13 +27,6 @@
             <link>http://spencerforhigher.com/free-yoga-and-meditation-mix/index.html</link>
             <guid isPermaLink="false">4250543c-3d44-4e64-8495-acc1997504cd</guid>
             <pubDate>Mon, 07 Nov 2016 20:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As a Man Thinketh]]></title>
-            <description><![CDATA[<article><h1>As a Man Thinketh</h1><img src="http://ecx.images-amazon.com/images/I/419p5R5c04L.jpg"></article>]]></description>
-            <link>https://www.amazon.com/As-Man-Thinketh-James-Allen/dp/1514698692/ref=sr_1_4?s=books&amp;rps=1&amp;ie=UTF8&amp;qid=1478550826&amp;sr=1-4&amp;keywords=as+a+man+thinketh+by+james+allen&amp;refinements=p_85%3A2470955011</link>
-            <guid isPermaLink="false">9815bcc8-c749-48e0-be05-a26e945a5782</guid>
-            <pubDate>Mon, 07 Nov 2016 20:35:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who is this fancy guy?]]></title>
@@ -76,6 +69,13 @@
             <link>https://www.yogaalliance.org/TeacherPublicProfile?tid=151509</link>
             <guid isPermaLink="false">bd31c5f7-cfb9-4e02-bc78-c68c3b7b36db</guid>
             <pubDate>Wed, 19 Oct 2016 18:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As a Man Thinketh]]></title>
+            <description><![CDATA[<article><h1>As a Man Thinketh</h1><img src="http://ecx.images-amazon.com/images/I/419p5R5c04L.jpg"></article>]]></description>
+            <link>https://www.amazon.com/As-Man-Thinketh-James-Allen/dp/1514698692/ref=sr_1_4?s=books&amp;rps=1&amp;ie=UTF8&amp;qid=1478550826&amp;sr=1-4&amp;keywords=as+a+man+thinketh+by+james+allen&amp;refinements=p_85%3A2470955011</link>
+            <guid isPermaLink="false">9815bcc8-c749-48e0-be05-a26e945a5782</guid>
+            <pubDate>Mon, 07 Nov 2016 20:39:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
