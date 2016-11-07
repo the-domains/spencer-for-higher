@@ -1,8 +1,8 @@
 ---
 id: 9c00e176-29b4-4bce-8c89-2e702edb905b
-dateModified: '2016-11-06T22:27:02.551Z'
+dateModified: '2016-11-07T11:23:15.856Z'
 title: ''
-datePublished: '2016-11-06T22:27:03.195Z'
+datePublished: '2016-11-07T11:23:16.516Z'
 author: []
 description: 'The family with our meditation & pranayam teacher in Rishikesh, India, 2016'
 publisher: {}
