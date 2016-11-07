@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-11-07T20:45:46.207Z'
+datePublished: '2016-11-07T20:45:47.471Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T20:45:45.534Z'
+dateModified: '2016-11-07T20:45:47.125Z'
 title: Reinventing the Alpha Male
 publisher: {}
 description: 'Our view of the Himalayas from our yoga ashram, Rishikesh, India 2016'
-starred: false
+starred: true
 url: reinventing-the-alpha-male/index.html
 _type: Article
 
