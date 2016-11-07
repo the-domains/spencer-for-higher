@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-07T11:19:51.287Z'
+datePublished: '2016-11-07T11:23:42.883Z'
 sourcePath: _posts/2016-10-31-yoga-for-alignment.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T11:19:50.657Z'
+dateModified: '2016-11-07T11:23:42.352Z'
 title: Yoga for Alignment
 publisher: {}
 description: Yoga is union.
@@ -48,3 +48,5 @@ Fuel your willpower with glucose from natural food and emotion from your nature 
 Overcome your blockages by being flexible and expanding your borders-- breaking down mental boundaries in order to let more creativity and life into you. This can be done by taking control of your time and gradually rising above your obstacles, altering your thinking and noticing all that you have to be grateful for.
 
 Wake up and stretch your boundaries. You have nothing to lose.
+
+Spencer Harber M.A. RYT MT
