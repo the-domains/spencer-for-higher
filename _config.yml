@@ -1,5 +1,6 @@
-layout_spectrum: 0.9591596005627387
 typography_spectrum: 0.981050587211007
+content_rating:
+  adult: false
 color:
   brandStrength: 0.076414893751798
   lightness: 0.2195307867775791
@@ -11,15 +12,14 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.9591596005627387
 author:
   name: Spencer Harber
   email: spencer_harber@yahoo.com
   url: spencerforhigher.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa15a2e0-3000-416b-9a4e-df001e41fccc.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3ad83c4-6e08-417b-8978-8d321c7e6fcd.png
 name: Spencer for Higher
 navigation:
   - name: About
