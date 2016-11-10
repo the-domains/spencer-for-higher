@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-11-07T16:09:01.384Z'
+datePublished: '2016-11-10T10:43:29.453Z'
 sourcePath: _posts/2016-10-27-drown-hateful-by-filling-great-full.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-07T16:09:00.619Z'
-title: ''
+dateModified: '2016-11-10T10:43:29.001Z'
+title: 'My beautiful muse, my greatest teacher, my Michelle.'
 publisher: {}
-description: ''
+description: 'Visiting a vegan cafe in Doolin, Ireland 2016'
 starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/206fd05d-eddf-479e-b36f-64009e9835f0.jpg)
+![Visiting a vegan cafe in Doolin, Ireland 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/206fd05d-eddf-479e-b36f-64009e9835f0.jpg)
 
 > Drown hateful by filling great-full.
