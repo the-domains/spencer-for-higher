@@ -54,12 +54,12 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@spencerforhigher1/soup-and-salad-eb18c7ee5152#.v3qyawwxh'
 title: Soup and Salad
-datePublished: '2016-11-08T17:24:31.931Z'
-dateModified: '2016-11-08T17:24:07.191Z'
+datePublished: '2016-11-11T21:17:40.569Z'
+dateModified: '2016-11-11T21:17:40.082Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-08-soup-and-salad.md
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
