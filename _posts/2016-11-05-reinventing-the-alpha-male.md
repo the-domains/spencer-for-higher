@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-11-10T13:03:38.626Z'
+datePublished: '2016-11-11T18:54:08.576Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-10T13:03:24.995Z'
+dateModified: '2016-11-11T18:53:36.271Z'
 title: Redesigning the Alpha Male
 publisher: {}
-description: 'Our view of the Himalayas from our yoga ashram, Rishikesh, India 2016'
+description: ''
 starred: true
 url: reinventing-the-alpha-male/index.html
 _type: Article
@@ -16,13 +16,17 @@ _type: Article
 ---
 # Redesigning the Alpha Male
 
-### I coach "manly men" into emotionally intelligent dynamos through a higher consciousness. Guys, meet your alpha yogi.
+## I'm scouting men that have a desire
 
-### Grow your connection to females of all ages and races.
+## to take their emotional intelligence higher.
 
-### Strengthen your communication inwardly and outwardly.
+## I ensure that "manly" men grow their connection to females of all ages and races by strengthening their inner and outer communication and thus creating compassion by acknowledging their inner genius.
 
-### Create compassion by acknowledging your inner wisdom.
+## To what level of attainment do you aspire?
+
+## Talk to me, the wellness investigator,
+
+## Spencer... for Higher.
 ![Our view of the Himalayas from our yoga ashram, Rishikesh, India 2016](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d95784b9-865b-432c-b745-1229e68a073b.jpg)
 
 ---
