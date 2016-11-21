@@ -14,6 +14,9 @@ color:
     - '#EB7F00'
 github: true
 layout_spectrum: 0.9591596005627387
+analytics:
+  facebook: null
+  google: UA-87730697-1
 author:
   name: Spencer Harber
   email: spencer_harber@yahoo.com
