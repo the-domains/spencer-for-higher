@@ -55,8 +55,8 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/@spencerforhigher1/parting-with-panties-a-mans-tale-79646c443a82#.4r7t4teo6
 title: 'Parting with Panties: A Man''s Tale'
-datePublished: '2016-11-11T21:18:53.384Z'
-dateModified: '2016-11-11T21:18:52.600Z'
+datePublished: '2016-11-22T08:01:42.981Z'
+dateModified: '2016-11-22T08:01:39.249Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-11-parting-with-panties-a-mans-tale.md
