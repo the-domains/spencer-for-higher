@@ -55,12 +55,12 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/@spencerforhigher1/trading-places-financial-health-and-emotional-wealth-116254c8b0cd#.mww0mfwku
 title: 'Trading Places: Financial Health and Emotional Wealth'
-datePublished: '2016-11-10T09:42:10.165Z'
-dateModified: '2016-11-10T09:41:51.728Z'
+datePublished: '2016-11-22T08:01:42.960Z'
+dateModified: '2016-11-22T08:01:39.249Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-10-trading-places-financial-health-and-emotional-wealth.md
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
