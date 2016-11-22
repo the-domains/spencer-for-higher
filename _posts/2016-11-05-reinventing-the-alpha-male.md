@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-22T08:44:38.882Z'
+datePublished: '2016-11-22T13:54:33.161Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-22T08:44:38.514Z'
+dateModified: '2016-11-22T13:54:32.549Z'
 title: Redesigning the Alpha Male
 publisher: {}
 description: ''
@@ -20,7 +20,7 @@ _type: Article
 
 ## to take their emotional intelligence higher.
 
-## I ensure that "manly" men grow their connection to females of all ages and races by strengthening their inner and outer communication and thus, creating compassion by acknowledging their inner genius.
+## Building self-awareness through humor, I facilitate your growth towards fellow humans of all ages and races by using laughter and compassion as the expressive keys to unlock your higher genius.
 
 ## To what level of attainment do you aspire?
 
