@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-11-22T13:22:21.599Z'
+datePublished: '2016-11-22T13:59:01.436Z'
+sourcePath: _posts/2016-11-22-trevor-hill-founder.md
 inFeed: true
 isBasedOnUrl: 'https://www.bonfire.com/zero-hour-expedition-go-forth/'
 author: []
 via: {}
-dateModified: '2016-11-22T13:22:10.755Z'
+dateModified: '2016-11-22T13:59:00.929Z'
 title: 'Trevor Hill, founder'
 publisher: {}
 description: >-
@@ -12,7 +13,6 @@ description: >-
   logo on the front chest and our founders tag line and mantra, "GO FORTH, KICK
   ASS, BE EPIC...
 starred: false
-sourcePath: _posts/2016-11-22-trevor-hill-founder.md
 _type: MediaObject
 
 ---
@@ -20,7 +20,7 @@ _type: MediaObject
 
 # [Zero Hour Expeditions][1]
 
-## Watch this man's story & support a holistic cause. 
+## Watch this man's story & support a holistic cause.
 
 <article style=""><img src="https://www.bonfire.com/thumb/design-image/b2e56207-bedd-4f7d-b033-faaba09b6231/7329f207-b69c-4f7e-8322-9f628fd81358/?size=400" /><h1>Zero Hour Expeditions | Bonfire</h1><p>GO FORTH, KICK ASS, BE EPIC. Support Zero Hour Expeditions in style with our logo on the front chest and our founders tag line and mantra, "GO FORTH, KICK ASS, BE EPIC...</p></article>
 
@@ -28,5 +28,5 @@ _type: MediaObject
 
 
 
-[0]: https://www.facebook.com/trevor.hill.5283 "Trevor HIll"
+[0]: https://www.facebook.com/trevor.hill.5283?fref=ts&ref=br_tf "Trev Hill"
 [1]: https://www.facebook.com/zerohourexpeditions/?pnref=about.overview "Zero Hour"
