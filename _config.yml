@@ -34,7 +34,7 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/spencerforhigher1/'
     type: external
-  - name: Higher Musings
+  - name: Blog
     url: 'http://blog.spencerforhigher.com/'
     type: external
 favicon: >-
