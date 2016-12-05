@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.spencerforhigher.com/'
 title: Higher Musings
-datePublished: '2016-12-05T10:40:25.314Z'
-dateModified: '2016-12-05T10:40:22.830Z'
+datePublished: '2016-12-05T10:42:05.647Z'
+dateModified: '2016-12-05T10:42:02.916Z'
 datePublishedOriginal: '2016-12-04T20:29:13.256Z'
 via: {}
 inFeed: true
