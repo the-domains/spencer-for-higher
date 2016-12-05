@@ -12,12 +12,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.amazon.com/As-Man-Thinketh-James-Allen/dp/1514698692/ref=sr_1_4?s=books&rps=1&ie=UTF8&qid=1478550826&sr=1-4&keywords=as+a+man+thinketh+by+james+allen&refinements=p_85%3A2470955011
 title: As a Man Thinketh
-datePublished: '2016-11-22T08:01:42.967Z'
-dateModified: '2016-11-22T08:01:39.249Z'
+datePublished: '2016-12-05T10:38:39.043Z'
+dateModified: '2016-12-05T10:38:36.664Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-07-as-a-man-thinketh.md
 starred: false
+datePublishedOriginal: '2016-11-22T08:01:42.967Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
