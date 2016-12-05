@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-11-22T08:01:42.960Z'
+datePublished: '2016-12-05T10:30:04.211Z'
 author: []
 via: {}
-dateModified: '2016-11-22T08:01:39.249Z'
+dateModified: '2016-12-05T10:30:02.600Z'
 title: ''
 publisher: {}
 description: The family and I enjoying Amsterdam from a "pedicab" after walking 8 miles!
@@ -10,6 +10,7 @@ sourcePath: >-
   _posts/2016-09-07-the-family-and-i-enjoying-amsterdam-from-a-pedicab-after-w.md
 inFeed: true
 starred: false
+datePublishedOriginal: '2016-11-22T08:01:42.960Z'
 _context: 'http://schema.org'
 _type: Article
 
