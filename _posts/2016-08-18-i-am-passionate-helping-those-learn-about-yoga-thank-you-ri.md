@@ -2,8 +2,8 @@
 description: >-
   I am passionate helping those learn about Yoga. Thank you Rishikesh for an
   amazing education!
-dateModified: '2016-11-22T08:01:39.249Z'
-datePublished: '2016-11-22T08:01:42.979Z'
+dateModified: '2016-12-05T10:42:02.916Z'
+datePublished: '2016-12-05T10:42:05.696Z'
 title: ''
 author: []
 publisher: {}
@@ -12,6 +12,7 @@ sourcePath: >-
   _posts/2016-08-18-i-am-passionate-helping-those-learn-about-yoga-thank-you-ri.md
 inFeed: true
 starred: false
+datePublishedOriginal: '2016-11-22T08:01:42.979Z'
 _type: Blurb
 
 ---
