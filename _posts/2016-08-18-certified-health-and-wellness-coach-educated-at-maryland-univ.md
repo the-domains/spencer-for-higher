@@ -2,8 +2,8 @@
 description: >-
   Certified health & wellness coach. Educated at Maryland University of
   Integrative Health.
-dateModified: '2016-12-05T10:42:02.916Z'
-datePublished: '2016-12-05T10:42:05.637Z'
+dateModified: '2016-12-09T19:30:31.525Z'
+datePublished: '2016-12-09T19:30:33.121Z'
 title: ''
 author: []
 publisher: {}
@@ -11,8 +11,8 @@ via: {}
 sourcePath: >-
   _posts/2016-08-18-certified-health-and-wellness-coach-educated-at-maryland-univ.md
 inFeed: true
-starred: false
 datePublishedOriginal: '2016-11-22T08:01:42.986Z'
+starred: false
 _type: Blurb
 
 ---
