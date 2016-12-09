@@ -71,8 +71,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/8LfUvi1bof8?list=LLdNbozjUfshQzvpI7pxIElA'
 title: 'OSHO: Being In Love'
-datePublished: '2016-12-05T10:42:05.699Z'
-dateModified: '2016-12-05T10:42:02.916Z'
+datePublished: '2016-12-09T19:30:33.129Z'
+dateModified: '2016-12-09T19:30:31.525Z'
 via: {}
 sourcePath: _posts/2016-08-31-osho-being-in-love.md
 inFeed: true
