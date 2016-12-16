@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-12-09T19:30:33.112Z'
+datePublished: '2016-12-16T20:27:34.196Z'
 sourcePath: _posts/2016-11-06-free-yoga-and-meditation-mix.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-09T19:30:31.525Z'
+dateModified: '2016-12-16T20:27:28.148Z'
 title: Free Yoga & Meditation Mix
 publisher: {}
 description: >-
   Exactly one hour music mix best used to time your yoga practice, your
   meditation, and even your massage sessions!
-datePublishedOriginal: '2016-11-22T08:01:42.985Z'
 starred: false
+datePublishedOriginal: '2016-11-22T08:01:42.985Z'
 url: free-yoga-and-meditation-mix/index.html
 _type: Article
 
