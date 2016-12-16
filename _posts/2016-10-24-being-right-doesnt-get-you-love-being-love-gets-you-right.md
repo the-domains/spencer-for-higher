@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-09T19:30:33.122Z'
+datePublished: '2016-12-16T20:27:34.196Z'
 inFeed: true
 author:
   - name: Spencer Harber
 via: {}
-dateModified: '2016-12-09T19:30:31.525Z'
+dateModified: '2016-12-16T20:27:28.148Z'
 title: ''
 publisher: {}
 description: Being right doesn't get you love. Being love gets you right.
 sourcePath: _posts/2016-10-24-being-right-doesnt-get-you-love-being-love-gets-you-right.md
-datePublishedOriginal: '2016-11-22T08:01:42.985Z'
 starred: false
+datePublishedOriginal: '2016-11-22T08:01:42.985Z'
 _type: Blurb
 
 ---
