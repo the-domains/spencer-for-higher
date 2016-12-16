@@ -64,15 +64,15 @@ app_links:
     namespace: google
     type: ios
 title: ▶ Your Thoughts Are Creating Your Reality Dr Wayne Dyer Law of Attraction)
-datePublished: '2016-12-09T19:30:33.126Z'
-dateModified: '2016-12-09T19:30:31.525Z'
+datePublished: '2016-12-16T20:27:34.182Z'
+dateModified: '2016-12-16T20:27:28.148Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2016-10-21-right-pointing-triangle-your-thoughts-are-creating-your-reality-dr-wayne-dyer-law.md
 hasPage: true
-datePublishedOriginal: '2016-11-22T08:01:42.982Z'
 starred: false
+datePublishedOriginal: '2016-11-22T08:01:42.982Z'
 url: >-
   right-pointing-triangle-your-thoughts-are-creating-your-reality-dr-wayne-dyer-law/index.html
 _type: VideoObject
