@@ -26,13 +26,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.spencerforhigher.com/'
 title: Higher Musings
-datePublished: '2016-12-09T19:30:32.946Z'
-dateModified: '2016-12-09T19:30:31.525Z'
-datePublishedOriginal: '2016-12-04T20:29:13.256Z'
+datePublished: '2016-12-16T20:27:34.130Z'
+dateModified: '2016-12-16T20:27:28.148Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-04-higher-musings.md
 starred: false
+datePublishedOriginal: '2016-12-04T20:29:13.256Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
