@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-12T14:06:12.321Z'
-datePublished: '2017-01-12T14:06:13.121Z'
+dateModified: '2017-01-12T14:10:32.598Z'
+datePublished: '2017-01-12T14:10:34.027Z'
 title: Schedule Your Transformation!
 author: []
 publisher: {}
