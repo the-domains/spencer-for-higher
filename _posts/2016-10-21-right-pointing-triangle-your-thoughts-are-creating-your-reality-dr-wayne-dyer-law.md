@@ -64,8 +64,8 @@ app_links:
     namespace: google
     type: ios
 title: ▶ Your Thoughts Are Creating Your Reality Dr Wayne Dyer Law of Attraction)
-datePublished: '2016-12-16T20:27:34.182Z'
-dateModified: '2016-12-16T20:27:28.148Z'
+datePublished: '2017-01-12T13:54:47.650Z'
+dateModified: '2017-01-12T13:54:41.661Z'
 via: {}
 inFeed: true
 sourcePath: >-
