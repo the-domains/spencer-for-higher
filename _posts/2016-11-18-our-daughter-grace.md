@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-16T20:27:34.180Z'
+datePublished: '2017-01-12T13:54:47.663Z'
 sourcePath: _posts/2016-11-18-our-daughter-grace.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-16T20:27:28.148Z'
+dateModified: '2017-01-12T13:54:41.661Z'
 title: Our daughter Grace displays a simple practice.
 publisher: {}
 description: ''
