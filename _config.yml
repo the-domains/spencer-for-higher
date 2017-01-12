@@ -48,6 +48,5 @@ purpose:
     url: 'mailto:spencerforhigher1@gmail.com'
     label: Contact me
   - type: external
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSd-RapfHp8vAt84vpZ-92BobR4m-zBpVKcMsdBmXa02h4Yyzw/viewform
-    label: Free Yoga Sign Up!
+    url: 'https://spencerforhigher.acuityscheduling.com/'
+    label: Schedule your appointment!
