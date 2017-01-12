@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-12T14:10:32.598Z'
-datePublished: '2017-01-12T14:10:34.027Z'
-title: Schedule Your Transformation!
+dateModified: '2017-01-12T14:20:30.854Z'
+datePublished: '2017-01-12T14:20:31.664Z'
+title: Schedule Your Life Change Today!
 author: []
 publisher: {}
 via: {}
@@ -15,5 +15,5 @@ datePublishedOriginal: '2017-01-12T13:31:35.177Z'
 _type: MediaObject
 
 ---
-# Schedule Your Transformation!
+# Schedule Your Life Change Today!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13733a15-0a34-487b-bb89-d2e56db92dbc.jpg)
