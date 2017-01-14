@@ -11,8 +11,8 @@ description: Schedule your appointment online and discover your higher abilities
 app_links: []
 isBasedOnUrl: 'https://spencerforhigher.acuityscheduling.com/schedule.php'
 title: Spencer for Higher
-datePublished: '2017-01-14T21:36:28.723Z'
-dateModified: '2017-01-14T21:36:27.449Z'
+datePublished: '2017-01-14T21:36:40.515Z'
+dateModified: '2017-01-14T21:36:40.024Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-14-spencer-for-higher.md
