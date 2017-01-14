@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-14T19:08:32.632Z'
-datePublished: '2017-01-14T19:08:33.217Z'
+dateModified: '2017-01-14T19:15:25.694Z'
+datePublished: '2017-01-14T19:15:26.196Z'
 title: Schedule Your Life Change Today!
 author: []
 publisher: {}
@@ -15,7 +15,5 @@ datePublishedOriginal: '2017-01-12T13:31:35.177Z'
 _type: MediaObject
 
 ---
-# [Schedule Your Life Change Today!][0]
+# Schedule Your Life Change Today!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13733a15-0a34-487b-bb89-d2e56db92dbc.jpg)
-
-[0]: https://spencerforhigher.acuityscheduling.com/schedule.php
