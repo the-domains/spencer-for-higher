@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-14T19:15:30.959Z'
-datePublished: '2017-01-14T19:15:31.486Z'
+dateModified: '2017-01-14T21:29:38.553Z'
+datePublished: '2017-01-14T21:29:43.684Z'
 title: Schedule Your Life Change Today!
 author: []
 publisher: {}
