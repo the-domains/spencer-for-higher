@@ -11,13 +11,13 @@ description: Schedule your appointment online with Spencer for Higher
 app_links: []
 isBasedOnUrl: 'https://spencerforhigher.acuityscheduling.com/schedule.php'
 title: Spencer for Higher
-datePublished: '2017-01-14T20:16:35.498Z'
-dateModified: '2017-01-14T20:16:32.886Z'
-datePublishedOriginal: '2017-01-14T20:16:35.498Z'
+datePublished: '2017-01-14T21:29:43.684Z'
+dateModified: '2017-01-14T21:29:38.553Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-14-spencer-for-higher.md
+starred: false
+datePublishedOriginal: '2017-01-14T20:16:35.498Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
