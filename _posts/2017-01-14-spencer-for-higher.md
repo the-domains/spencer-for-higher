@@ -11,8 +11,8 @@ description: Schedule your appointment online with Spencer for Higher
 app_links: []
 isBasedOnUrl: 'https://spencerforhigher.acuityscheduling.com/schedule.php'
 title: Spencer for Higher
-datePublished: '2017-01-14T21:29:43.684Z'
-dateModified: '2017-01-14T21:29:38.553Z'
+datePublished: '2017-01-14T21:35:25.427Z'
+dateModified: '2017-01-14T21:35:24.700Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-14-spencer-for-higher.md
@@ -22,4 +22,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Spencer for Higher</h1><p>Schedule your appointment online with Spencer for Higher</p><img src="https://s3.amazonaws.com/acuitys/logo12889966.png?1484223891&amp;hasAlpha=1" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/896e425b9e532e9192684b42e31920fe306ff49e.png" /><h1>Spencer for Higher</h1><p>Schedule your appointment online with Spencer for Higher</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39483787-9454-415f-95fc-ff7db70e6245.jpg)
