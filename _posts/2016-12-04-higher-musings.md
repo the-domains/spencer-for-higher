@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.spencerforhigher.com/'
 title: Higher Musings
-datePublished: '2017-01-18T10:05:35.903Z'
-dateModified: '2017-01-18T10:05:35.335Z'
+datePublished: '2017-01-18T10:12:34.050Z'
+dateModified: '2017-01-18T10:12:33.506Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-04-higher-musings.md
@@ -37,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c36fb07-1e02-4f49-a291-195e1dc572a0.jpg" /><h1>Higher Musings</h1><p>I volunteer as a yoga instructor on a U.S. Army base in the Bavarian countryside. I know that sounds typical, but this American dream has quite a journey attached to it.</p></article>
+<article style=""><h1>Higher Musings</h1><p>I volunteer as a yoga instructor on a U.S. Army base in the Bavarian countryside. I know that sounds typical, but this American dream has quite a journey attached to it.</p></article>
