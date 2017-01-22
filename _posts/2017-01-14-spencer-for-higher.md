@@ -11,8 +11,8 @@ description: Schedule your appointment online and discover your higher abilities
 app_links: []
 isBasedOnUrl: 'https://spencerforhigher.acuityscheduling.com/schedule.php'
 title: What is Coaching?
-datePublished: '2017-01-22T13:24:26.851Z'
-dateModified: '2017-01-22T13:23:55.660Z'
+datePublished: '2017-01-22T13:42:12.456Z'
+dateModified: '2017-01-22T13:42:09.033Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-14-spencer-for-higher.md
