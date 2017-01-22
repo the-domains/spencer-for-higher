@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'https://kellysundberg.com/2017/01/20/guest-post-the-sad-man/'
-dateModified: '2017-01-22T13:04:27.708Z'
-datePublished: '2017-01-22T13:04:28.308Z'
+dateModified: '2017-01-22T13:10:10.926Z'
+datePublished: '2017-01-22T13:10:17.344Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-01-22-httpskellysundbergcom20170120guest-post-the-sad-man.md
 starred: false
 datePublishedOriginal: '2017-01-22T13:04:28.308Z'
-sourcePath: _posts/2017-01-22-httpskellysundbergcom20170120guest-post-the-sad-man.md
 _type: Blurb
 
 ---
