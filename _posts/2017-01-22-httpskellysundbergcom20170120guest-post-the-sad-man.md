@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Guest Post: Featured on Kelly Sundberg’s Blog: Apology Not Accepted'
-dateModified: '2017-01-22T13:42:09.033Z'
-datePublished: '2017-01-22T13:42:12.509Z'
+dateModified: '2017-01-22T14:20:21.115Z'
+datePublished: '2017-01-22T14:20:21.971Z'
 title: The Sad Man
 author: []
 publisher:
@@ -22,7 +22,7 @@ _type: Article
 Guest Post: Featured on Kelly Sundberg's Blog: _Apology Not Accepted_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d0fcc24e3e318edda5643546e69565331479a1d.jpg)
 
-This was a personal piece that was published depicting my personal trials of abuse and what I had to do to overcome and begin my healing process.
+[This was a personal piece that was published depicting my personal trials of abuse and what I had to do to overcome and begin my healing process.][0]
 
 ---
 
