@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-18T10:53:30.594Z'
+datePublished: '2017-01-22T13:10:18.163Z'
 sourcePath: _posts/2016-10-27-drown-hateful-by-filling-great-full.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-18T10:53:29.756Z'
+dateModified: '2017-01-22T13:10:10.926Z'
 title: 'My beautiful muse, my greatest teacher, my Michelle.'
 publisher: {}
 description: 'Visiting a vegan cafe in Doolin, Ireland 2016'
