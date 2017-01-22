@@ -1,13 +1,13 @@
 ---
 inFeed: true
-description: 'Guest Post: Featured on  Kelly Sundberg’s Blog: Apology Not Accepted'
-dateModified: '2017-01-22T13:23:55.660Z'
-datePublished: '2017-01-22T13:24:26.179Z'
+description: 'Guest Post: Featured on Kelly Sundberg’s Blog: Apology Not Accepted'
+dateModified: '2017-01-22T13:37:22.195Z'
+datePublished: '2017-01-22T13:37:23.038Z'
 title: The Sad Man
 author: []
 publisher:
   name: Kelly Sundberg
-  url: 'https://kellysundberg.com/2017/01/20/guest-post-the-sad-man/'
+  url: 'https://kellysundberg.com'
 via: {}
 sourcePath: _posts/2017-01-22-httpskellysundbergcom20170120guest-post-the-sad-man.md
 hasPage: true
