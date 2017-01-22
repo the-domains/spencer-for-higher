@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/4rxk8jvLBzE'
 title: 'How You Can Meditate Everywhere, Anytime HuffPost Rise'
-datePublished: '2017-01-22T13:24:37.126Z'
-dateModified: '2017-01-22T13:23:55.660Z'
+datePublished: '2017-01-22T13:42:14.838Z'
+dateModified: '2017-01-22T13:42:09.033Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-12-how-you-can-meditate-everywhere-anytime-huffpost-rise.md
