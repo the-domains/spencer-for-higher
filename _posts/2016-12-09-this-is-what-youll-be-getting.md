@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-22T14:21:03.045Z'
+datePublished: '2017-01-22T15:42:45.129Z'
 sourcePath: _posts/2016-12-09-this-is-what-youll-be-getting.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/tAf3i__fT2U'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
     avatar: {}
 via: {}
-dateModified: '2017-01-22T14:20:50.246Z'
+dateModified: '2017-01-22T15:42:41.002Z'
 title: I am PUMPED to be your coach!
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tAf3i__fT2U&feature=applinks'
