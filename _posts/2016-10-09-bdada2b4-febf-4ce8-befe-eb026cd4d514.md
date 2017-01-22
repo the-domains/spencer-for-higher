@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-22T13:24:32.280Z'
+datePublished: '2017-01-22T13:42:13.952Z'
 sourcePath: _posts/2016-10-09-bdada2b4-febf-4ce8-befe-eb026cd4d514.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-22T13:23:55.660Z'
+dateModified: '2017-01-22T13:42:09.033Z'
 title: 'My wife, my life'
 publisher: {}
 description: My greatest friend and I visiting the North Sea in the Netherlands.
