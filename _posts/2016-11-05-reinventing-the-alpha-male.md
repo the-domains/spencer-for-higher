@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-22T13:24:26.101Z'
+datePublished: '2017-01-22T13:42:12.437Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-22T13:23:55.660Z'
+dateModified: '2017-01-22T13:42:09.033Z'
 title: Redesigning the Alpha Male
 publisher: {}
 description: ''
