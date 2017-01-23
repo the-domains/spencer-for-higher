@@ -7,12 +7,14 @@ publisher:
   favicon: 'https://www.yogaalliance.org/favicon-16x16.png'
   domain: www.yogaalliance.org
 keywords: []
-description: ''
+description: >-
+  Check out my profile at Yoga Alliance USA! I'm registered and insured to
+  properly help you!
 app_links: []
 isBasedOnUrl: 'https://www.yogaalliance.org/TeacherPublicProfile?tid=151509'
 title: Spencer Harber - Teacher Profile | Yoga Alliance
-datePublished: '2017-01-23T09:39:59.784Z'
-dateModified: '2017-01-23T09:39:57.667Z'
+datePublished: '2017-01-23T09:41:30.259Z'
+dateModified: '2017-01-23T09:41:29.721Z'
 via: {}
 sourcePath: _posts/2016-08-18-spencer-harber-teacher-profile-or-yoga-alliance.md
 inFeed: true
@@ -22,4 +24,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Spencer Harber - Teacher Profile | Yoga Alliance</h1><img src="https://www.yogaalliance.org/Portals/0/Logo.png" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9d26d89722ba71a30f9bfe171b8b2334/noop.png?input=https%3A%2F%2Fwww.yogaalliance.org%2FPortals%2F0%2FLogo.png" /><h1>Spencer Harber - Teacher Profile | Yoga Alliance</h1><p>Check out my profile at Yoga Alliance USA! I'm registered and insured to properly help you!</p></article>
