@@ -2,7 +2,7 @@
 author: []
 related: []
 publisher:
-  name: Spencer Harber
+  name: Spencer for Higher's Higher Musings!
   url: 'http://blog.spencerforhigher.com/'
 keywords:
   - yoga
@@ -20,8 +20,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.spencerforhigher.com/'
 title: ''
-datePublished: '2017-01-23T09:29:35.843Z'
-dateModified: '2017-01-23T09:29:35.364Z'
+datePublished: '2017-01-23T09:32:06.609Z'
+dateModified: '2017-01-23T09:32:05.703Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-04-higher-musings.md
