@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://www.yogaalliance.org/TeacherPublicProfile?tid=151509'
 title: Spencer Harber - Teacher Profile | Yoga Alliance
-datePublished: '2017-01-22T15:42:46.713Z'
-dateModified: '2017-01-22T15:42:41.002Z'
+datePublished: '2017-01-23T09:39:59.784Z'
+dateModified: '2017-01-23T09:39:57.667Z'
 via: {}
 sourcePath: _posts/2016-08-18-spencer-harber-teacher-profile-or-yoga-alliance.md
 inFeed: true
