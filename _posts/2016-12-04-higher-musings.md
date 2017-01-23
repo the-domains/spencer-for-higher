@@ -1,7 +1,9 @@
 ---
 author: []
 related: []
-publisher: {}
+publisher:
+  name: Spencer Harber
+  url: 'http://blog.spencerforhigher.com/'
 keywords:
   - yoga
   - iuvat
@@ -18,8 +20,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.spencerforhigher.com/'
 title: ''
-datePublished: '2017-01-22T15:42:45.091Z'
-dateModified: '2017-01-22T15:42:41.002Z'
+datePublished: '2017-01-23T09:28:31.880Z'
+dateModified: '2017-01-23T09:28:31.009Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-04-higher-musings.md
@@ -29,6 +31,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b663e04-f878-47c2-b5fb-d92f1916acab.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e76b5b4-0ca3-4e61-b4aa-a6b214b8769b.jpg)
 
-<article style=""><h1>Higher Musings</h1><p>I volunteer as a yoga instructor on a U.S. Army base in the Bavarian countryside. I know that sounds typical, but this American dream has quite a journey attached to it.</p></article>
+<article style=""><h1>Higher Musings</h1><p>Spencer for Higher covers the gamut of health, humor, wellness, yoga, cooking, massage, and much more!</p></article>
