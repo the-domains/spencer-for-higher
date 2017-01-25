@@ -1,8 +1,8 @@
 ---
-datePublished: '2017-01-22T15:42:47.337Z'
+datePublished: '2017-01-25T13:00:12.956Z'
 author: []
 via: {}
-dateModified: '2017-01-22T15:42:41.002Z'
+dateModified: '2017-01-25T13:00:09.769Z'
 title: ''
 publisher: {}
 description: The family and I enjoying Amsterdam from a "pedicab" after walking 8 miles!
