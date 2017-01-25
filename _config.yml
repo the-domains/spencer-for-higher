@@ -1,5 +1,6 @@
-layout_spectrum: 0.28103582013721146
 typography_spectrum: 0.33116585022631556
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8796973813770542
   lightness: 0.35552598072335784
@@ -11,9 +12,8 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.28103582013721146
 analytics:
   facebook: '786094331529434'
   google: UA-87730697-1
@@ -38,6 +38,9 @@ navigation:
   - name: Blog
     url: 'http://blog.spencerforhigher.com/'
     type: external
+  - name: Plant-Based Nutrition
+    url: 'http://nutritionstudies.org/slides/grad-presentation/#/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
 title: Wellness Investigator
@@ -51,16 +54,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: Spencer for Higher
-          url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=tAf3i__fT2U'
       keywords:
         - duration
         - views
@@ -72,12 +67,13 @@ content:
         - jackman
         - duets
         - lady
-      description: >-
-        My exact feelings after completing my Master's degree in Health &
-        Wellness coaching. A Spencer for Higher Short. Please visit
-        http://spencerforhigher.com/ or http://blog.spencerforhigher.com/ for
-        more humorous inspiration!
-      inLanguage: en
+      related: []
+      author:
+        - name: Spencer for Higher
+          url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: I'm Done!
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=tAf3i__fT2U&feature=applinks'
@@ -116,10 +112,17 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=tAf3i__fT2U'
-      title: I'm Done!
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        My exact feelings after completing my Master's degree in Health &
+        Wellness coaching. A Spencer for Higher Short. Please visit
+        http://spencerforhigher.com/ or http://blog.spencerforhigher.com/ for
+        more humorous inspiration!
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
