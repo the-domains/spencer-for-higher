@@ -38,7 +38,7 @@ navigation:
   - name: Blog
     url: 'http://blog.spencerforhigher.com/'
     type: external
-  - name: Plant-Based Nutrition
+  - name: Nutrition
     url: 'http://nutritionstudies.org/slides/grad-presentation/#/'
     type: external
 favicon: >-
