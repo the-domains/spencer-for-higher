@@ -29,6 +29,9 @@ navigation:
   - name: About
     id: e3240098-4c63-45b7-a76f-e4d93eeb5457
     type: content
+  - name: Nutrition
+    url: 'http://nutritionstudies.org/slides/grad-presentation/#/'
+    type: external
   - name: Instagram
     url: 'https://www.instagram.com/spencer.for.higher/'
     type: external
@@ -37,9 +40,6 @@ navigation:
     type: external
   - name: Blog
     url: 'http://blog.spencerforhigher.com/'
-    type: external
-  - name: Nutrition
-    url: 'http://nutritionstudies.org/slides/grad-presentation/#/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
