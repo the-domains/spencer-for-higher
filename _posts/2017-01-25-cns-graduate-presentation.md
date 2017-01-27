@@ -1,11 +1,7 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'http://nutritionstudies.org'
-  name: Nutritionstudies
-  favicon: 'http://nutritionstudies.org/favicon.ico'
-  domain: nutritionstudies.org
+publisher: {}
 keywords:
   - raw
   - prescription
@@ -17,13 +13,13 @@ keywords:
   - drugs
   - http
   - protein
-description: Plant-based nutrition certificate graduate presentation.
+description: ''
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://nutritionstudies.org/slides/grad-presentation/#/'
-title: CNS Graduate Presentation
-datePublished: '2017-01-27T08:41:03.014Z'
-dateModified: '2017-01-27T08:41:02.452Z'
+title: ''
+datePublished: '2017-01-27T08:45:30.420Z'
+dateModified: '2017-01-27T08:45:29.835Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-25-cns-graduate-presentation.md
@@ -33,4 +29,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/353cf03c-1dd5-490e-9054-37e5a6ba00b1.jpg)
+
 <article style=""><h1>CNS Graduate Presentation</h1><p>Plant-based nutrition certificate graduate presentation.</p></article>
