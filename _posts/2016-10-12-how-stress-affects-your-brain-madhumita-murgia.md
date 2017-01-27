@@ -65,8 +65,8 @@ app_links:
     namespace: google
     type: ios
 title: How stress affects your brain - Madhumita Murgia
-datePublished: '2017-01-27T08:24:20.185Z'
-dateModified: '2017-01-27T08:24:13.366Z'
+datePublished: '2017-01-27T09:03:57.746Z'
+dateModified: '2017-01-27T09:03:51.441Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-12-how-stress-affects-your-brain-madhumita-murgia.md
