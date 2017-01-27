@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-25T13:00:13.756Z'
+datePublished: '2017-01-27T08:24:19.846Z'
 inFeed: true
 author:
   - name: Spencer Harber
 via: {}
-dateModified: '2017-01-25T13:00:09.769Z'
+dateModified: '2017-01-27T08:24:13.366Z'
 title: ''
 publisher: {}
 description: Being right doesn't get you love. Being love gets you right.
