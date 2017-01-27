@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://nutritionstudies.org/slides/grad-presentation/#/'
 title: CNS Graduate Presentation
-datePublished: '2017-01-25T13:00:11.921Z'
-dateModified: '2017-01-25T13:00:09.769Z'
+datePublished: '2017-01-27T08:24:17.772Z'
+dateModified: '2017-01-27T08:24:13.366Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-25-cns-graduate-presentation.md
