@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-04T14:02:46.328Z'
+datePublished: '2017-02-04T19:03:29.495Z'
 sourcePath: _posts/2016-12-09-this-is-what-youll-be-getting.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/tAf3i__fT2U'
@@ -20,8 +20,8 @@ author:
     url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
     avatar: {}
 via: {}
-dateModified: '2017-02-04T14:02:14.501Z'
-title: I am PUMPED to be your coach!
+dateModified: '2017-02-04T19:03:28.065Z'
+title: Click to see what I coach!
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tAf3i__fT2U&feature=applinks'
     type: ios
@@ -65,10 +65,11 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: youtu.be
 description: >-
-  My exact feelings after completing my Master's degree in Health & Wellness
-  coaching. A Spencer for Higher Short. Please visit
-  http://spencerforhigher.com/ or http://blog.spencerforhigher.com/ for more
-  humorous inspiration!
+  News feeds have you feeling down? Having trouble dealing with fatigue lately?
+  This video highlights three practical approaches to restoring your strength
+  and energy by using a mindful acceptance of self. Stop. Breathe. Reaccess your
+  situation and take the higher road. http://spencerforhigher.com/ Music: Bad
+  Love (Original mix) Abakus, The Archives, Vol.
 inLanguage: en
 starred: false
 datePublishedOriginal: '2016-12-09T19:27:09.914Z'
@@ -76,6 +77,6 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# I am PUMPED to be your coach!
+# Click to see what I coach!
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtAf3i__fT2U%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtAf3i__fT2U&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtAf3i__fT2U%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9zfuw9YQmVI%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9zfuw9YQmVI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9zfuw9YQmVI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
