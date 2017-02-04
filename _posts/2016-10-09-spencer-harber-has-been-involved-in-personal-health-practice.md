@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-27T08:27:26.580Z'
+datePublished: '2017-02-04T14:02:46.791Z'
 sourcePath: >-
   _posts/2016-10-09-spencer-harber-has-been-involved-in-personal-health-practice.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-27T08:27:23.682Z'
+dateModified: '2017-02-04T14:02:14.501Z'
 title: Who is this fancy guy?
 publisher: {}
 description: >-
