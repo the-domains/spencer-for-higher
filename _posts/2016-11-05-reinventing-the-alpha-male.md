@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-02-04T13:59:32.667Z'
+datePublished: '2017-02-04T21:07:16.959Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-04T13:59:31.871Z'
-title: Redesigning Common Behavior
+dateModified: '2017-02-04T21:07:15.624Z'
+title: Redesigning Behavior
 publisher: {}
 description: ''
 starred: true
@@ -15,7 +15,7 @@ url: reinventing-the-alpha-male/index.html
 _type: Article
 
 ---
-# Redesigning Common Behavior
+# Redesigning Behavior
 
 ## I'm scouting motivated people that have a desire
 
