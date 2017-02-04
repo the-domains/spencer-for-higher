@@ -47,7 +47,44 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
 title: Wellness Investigator
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F9zfuw9YQmVI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9zfuw9YQmVI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9zfuw9YQmVI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Spencer for Higher
+          url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://www.youtube.com/favicon.ico'
+        domain: www.youtube.com
+      keywords: []
+      description: >-
+        News feeds have you feeling down? Having trouble dealing with fatigue
+        lately? This video highlights three practical approaches to restoring
+        your strength and energy by using a mindful acceptance of self. Stop.
+        Breathe. Reaccess your situation and take the higher road.
+        http://spencerforhigher.com/ Music: Bad Love (Original mix) Abakus, The
+        Archives, Vol.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links: []
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=9zfuw9YQmVI'
+      title: Spencer for Higher - 3 Steps to Emotion Regulation
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Discover Your Higher Ability
 purpose:
   - type: contact
