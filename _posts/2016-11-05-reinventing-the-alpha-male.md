@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-28T08:14:36.915Z'
+datePublished: '2017-02-04T13:59:32.667Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-28T08:14:35.326Z'
-title: Redesigning the Alpha Male
+dateModified: '2017-02-04T13:59:31.871Z'
+title: Redesigning Common Behavior
 publisher: {}
 description: ''
 starred: true
@@ -15,9 +15,9 @@ url: reinventing-the-alpha-male/index.html
 _type: Article
 
 ---
-# Redesigning the Alpha Male
+# Redesigning Common Behavior
 
-## I'm scouting men that have a desire
+## I'm scouting motivated people that have a desire
 
 ## to take their emotional intelligence higher.
 
