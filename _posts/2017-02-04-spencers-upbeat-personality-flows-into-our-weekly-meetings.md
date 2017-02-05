@@ -7,8 +7,8 @@ description: >-
   goal-oriented conversations, Spencer helps you find your own solutions. I
   thoroughly enjoyed the service and flexibility. I recommend wellness coaching
   with Spencer for anyone looking to make positive changes in their lives. “
-dateModified: '2017-02-04T14:21:32.348Z'
-datePublished: '2017-02-04T14:21:33.765Z'
+dateModified: '2017-02-05T13:53:55.051Z'
+datePublished: '2017-02-05T13:53:55.966Z'
 title: A Joy of a Client!
 author: []
 publisher: {}
