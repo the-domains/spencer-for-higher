@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-02-17T20:19:12.778Z'
+datePublished: '2017-02-17T20:23:21.231Z'
 sourcePath: >-
   _posts/2016-10-09-spencer-harber-has-been-involved-in-personal-health-practice.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-17T20:19:11.564Z'
+dateModified: '2017-02-17T20:23:19.658Z'
 title: Who is this fancy guy?
 publisher: {}
 description: image
@@ -30,4 +30,4 @@ image
 
 **Edit**
 
-Michelle Russell is a 17-year teaching veteran who holds a Master's degree in Education from Lesley University in Boston. Her undergraduate work was done at California State University San Bernardino. Michelle holds a plant-based chef certification from Rouxbe Cooking School and is a certified yoga teacher with The Yoga Alliance. She received her yoga training in Rishikesh, India. Michelle is passionate about her children, her work, and her love. She brings yoga, plants, and education together in uniquely informative, fun ways. Michelle is currently offering yoga and plant-based cooking classes throughout her community and online.
+Michelle Russell is a 17-year teaching veteran who holds a Master's degree in Education from Lesley University in Boston. Her undergraduate work was done at California State University San Bernardino. Michelle holds a plant-based chef certification from Rouxbe Cooking School and is a certified yoga teacher with The Yoga Alliance. She received her yoga training in Rishikesh, India. Michelle is passionate about her children, her work, and her love. She brings yoga, plants, and education together in uniquely informative, fun ways. Michelle is currently offering yoga and plant-based cooking classes throughout her community and online. She and Spencer enjoy working together with their children to offer unique family yoga courses and coaching.
