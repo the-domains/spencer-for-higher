@@ -38,9 +38,6 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/spencerforhigher1/'
     type: external
-  - name: Vimeo
-    url: 'https://vimeo.com/spencerforhigher'
-    type: external
   - name: Blog
     url: 'http://blog.spencerforhigher.com/'
     type: external
@@ -75,7 +72,6 @@ content:
         Breathe. Reaccess your situation and take the higher road.
         http://spencerforhigher.com/ Music: Bad Love (Original mix) Abakus, The
         Archives, Vol.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
