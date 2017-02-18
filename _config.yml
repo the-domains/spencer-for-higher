@@ -38,11 +38,11 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/spencerforhigher1/'
     type: external
-  - name: Blog
-    url: 'http://blog.spencerforhigher.com/'
-    type: external
   - name: YouTube
     url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
+    type: external
+  - name: Blog
+    url: 'http://blog.spencerforhigher.com/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
