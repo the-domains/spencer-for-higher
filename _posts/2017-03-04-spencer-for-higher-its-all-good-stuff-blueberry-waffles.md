@@ -64,9 +64,9 @@ app_links:
     namespace: google
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=BH0wdY0GDpo'
-title: Spencer for Higher - It's All Good Stuff - Blueberry waffles & Tofu "eggs"
-datePublished: '2017-03-04T20:42:42.759Z'
-dateModified: '2017-03-04T20:42:41.899Z'
+title: Hungry for change!?
+datePublished: '2017-03-04T20:44:12.773Z'
+dateModified: '2017-03-04T20:44:11.727Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-04-spencer-for-higher-its-all-good-stuff-blueberry-waffles.md
@@ -76,4 +76,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+# Hungry for change!?
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FBH0wdY0GDpo%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBH0wdY0GDpo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBH0wdY0GDpo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
