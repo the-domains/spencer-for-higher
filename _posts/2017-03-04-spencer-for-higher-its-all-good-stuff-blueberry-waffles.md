@@ -65,13 +65,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=BH0wdY0GDpo'
 title: Spencer for Higher - It's All Good Stuff - Blueberry waffles & Tofu "eggs"
-datePublished: '2017-03-04T20:40:27.476Z'
-dateModified: '2017-03-04T20:39:05.885Z'
-datePublishedOriginal: '2017-03-04T20:40:27.476Z'
+datePublished: '2017-03-04T20:42:42.759Z'
+dateModified: '2017-03-04T20:42:41.899Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-04-spencer-for-higher-its-all-good-stuff-blueberry-waffles.md
+starred: false
+datePublishedOriginal: '2017-03-04T20:40:27.476Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
