@@ -2,8 +2,8 @@
 description: >-
   Certified health & wellness coach. Educated at Maryland University of
   Integrative Health.
-dateModified: '2017-02-04T14:02:14.501Z'
-datePublished: '2017-02-04T14:02:51.230Z'
+dateModified: '2017-03-04T20:42:41.899Z'
+datePublished: '2017-03-04T20:42:42.760Z'
 title: ''
 author: []
 publisher: {}
