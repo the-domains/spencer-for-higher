@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-03-04T20:42:42.760Z'
+datePublished: '2017-03-25T12:34:42.663Z'
 sourcePath: >-
   _posts/2016-10-09-spencer-harber-has-been-involved-in-personal-health-practice.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-04T20:42:41.899Z'
+dateModified: '2017-03-25T12:34:41.730Z'
 title: ''
 publisher: {}
 description: >-
