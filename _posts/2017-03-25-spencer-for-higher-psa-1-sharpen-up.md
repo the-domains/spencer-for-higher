@@ -71,13 +71,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9XoBMajVTog'
 title: 'Spencer for Higher - PSA #1 Sharpen Up'
-datePublished: '2017-03-25T12:37:12.351Z'
-dateModified: '2017-03-25T12:36:07.774Z'
-datePublishedOriginal: '2017-03-25T12:37:12.351Z'
+datePublished: '2017-03-25T12:38:43.031Z'
+dateModified: '2017-03-25T12:38:41.947Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-25-spencer-for-higher-psa-1-sharpen-up.md
+starred: false
+datePublishedOriginal: '2017-03-25T12:37:12.351Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
