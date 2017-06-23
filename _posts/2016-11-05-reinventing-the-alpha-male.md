@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-04T21:07:16.959Z'
+datePublished: '2017-06-23T23:20:54.430Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-04T21:07:15.624Z'
+dateModified: '2017-06-23T23:20:53.424Z'
 title: Redesigning Behavior
 publisher: {}
 description: ''
