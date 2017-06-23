@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-25T12:38:43.111Z'
+datePublished: '2017-06-23T23:20:54.408Z'
 sourcePath: _posts/2016-12-09-this-is-what-youll-be-getting.md
 inFeed: true
 isBasedOnUrl: 'https://youtu.be/tAf3i__fT2U'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/channel/UCX0kAtWT2sPwcdqmnPpfLbA'
     avatar: {}
 via: {}
-dateModified: '2017-03-25T12:38:41.947Z'
+dateModified: '2017-06-23T23:20:53.424Z'
 title: Click to see what I coach!
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tAf3i__fT2U&feature=applinks'
