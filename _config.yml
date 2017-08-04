@@ -1,19 +1,19 @@
-typography_spectrum: 0.33116585022631556
+layout_spectrum: 0.16498653943004954
+typography_spectrum: 0.523775185914618
+color:
+  brandStrength: 0.6993707162886857
+  lightness: 0.4863746038174238
+  saturation: 0.4434031924528835
+  rhythmicContrast: 0.2828298866755265
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.8796973813770542
-  lightness: 0.35552598072335784
-  saturation: 1
-  rhythmicContrast: 0.13255444721724507
-  brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
 github: true
-layout_spectrum: 0.28103582013721146
 analytics:
   facebook: '786094331529434'
   google: UA-87730697-1
@@ -89,7 +89,6 @@ content:
         humorous tips on wellness, yoga, plant-based cooking, massage, intimacy,
         relationships, and anything else that supports your journey towards your
         higher self!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=tv9CShrX4Ys&feature=applinks'
