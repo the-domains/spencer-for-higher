@@ -46,7 +46,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
-title: Spencer for HigherWellness Investigator
+title: Spencer for Higher--Wellness Investigator
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
