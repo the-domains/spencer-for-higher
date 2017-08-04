@@ -46,7 +46,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
-title: Wellness Investigator
+title: Spencer for HigherWellness Investigator
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -89,7 +89,6 @@ content:
         another project! In this short clip, Grace discovers that she has fallen
         in love with flexing her strong muscles, Ava catches her, and hilarity
         ensues. "Check yourself" today!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=7OeyJVG4x0E&feature=applinks'
