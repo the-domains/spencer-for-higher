@@ -1,31 +1,41 @@
 ---
-datePublished: '2017-06-23T23:20:54.430Z'
+datePublished: '2018-01-02T18:46:18.515Z'
 sourcePath: _posts/2016-11-05-reinventing-the-alpha-male.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-06-23T23:20:53.424Z'
-title: Redesigning Behavior
+dateModified: '2018-01-02T18:46:17.172Z'
+title: Behavior Modification
 publisher: {}
 description: ''
 starred: true
-datePublishedOriginal: '2016-11-22T13:54:33.161Z'
+datePublishedOriginal: '2017-12-23T19:57:16.847Z'
 url: reinventing-the-alpha-male/index.html
 _type: Article
 
 ---
-# Redesigning Behavior
+# Behavior Modification
 
-## I'm scouting motivated people that have a desire
+## I'm a professional coach who is motivated
 
-## to take their emotional intelligence higher.
+## to coach those weary from being frustrated.
 
-## Building self-awareness through humor, I facilitate your growth towards fellow humans of all ages and races by using laughter and compassion as the expressive keys to unlock your higher genius.
+## We'll stomp out your urge to be careless
+
+## by strengthening your self-awareness.
+
+## Facilitating your transformation
+
+## by dusting off your imagination.
+
+## Step-by-curious-step you'll begin to realize
+
+## that your creativity will grow in size.
 
 ## To what level of attainment do you aspire?
 
-## Talk to me, the wellness investigator,
+## Talk to me, the wellness instigator,
 
 ## Spencer... for Higher.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d95784b9-865b-432c-b745-1229e68a073b.jpg)
