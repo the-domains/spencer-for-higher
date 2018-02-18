@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-02-18T21:24:45.277Z'
+datePublished: '2018-02-18T21:25:57.210Z'
 sourcePath: >-
   _posts/2016-10-09-spencer-harber-has-been-involved-in-personal-health-practice.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-02-18T21:24:43.823Z'
+dateModified: '2018-02-18T21:25:56.658Z'
 title: ''
 publisher: {}
 description: >-
@@ -30,7 +30,7 @@ url: who-is-this-fancy-guy/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/02423dd9961ebe44c73cf1bda97c74cf/croprotate.jpg?cropheight=4912&cropwidth=3262&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F067bc3fe-0117-4219-a8ba-813e511f3be3.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ce9bb7-665d-40f6-89f2-7c41dfaadc17.jpg)
 
 Spencer Harber works in personal health practices. He offers a combined 18 years' experience in a variety of healing mediums. He is a certified coach through the International Coach Federation (ICF) and holds both a Master's of Arts and Post-Baccalaureate Certificate in health & wellness coaching. He holds a Bachelor of Arts in Complementary & Alternative Health and is a certified massage therapist. Spencer is a registered teacher with Yoga Alliance USA, after completing yoga studies in Rishikesh, India. As a healer, he has crafted a unique massage practice utilizing acupressure, aromatherapy, Reiki, and myofascial release allowing patients to get reacquainted with their bodies. Through yoga, he works with clients to alleviate any number of disorders. With the medium of plants, he has found health through nutrition. Writing has opened new doors allowing Spencer to share and coach through the written word, as well. He is currently following his passions for uniting humor and wellness together in a variety of forms.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6728f6d581cd2d74112b01b699db5434d5a3885e.jpg)
