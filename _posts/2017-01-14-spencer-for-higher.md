@@ -7,12 +7,16 @@ publisher:
   favicon: 'https://spencerforhigher.acuityscheduling.com/favicon.ico'
   domain: spencerforhigher.acuityscheduling.com
 keywords: []
-description: Schedule your appointment online and discover your higher abilities!
+description: >-
+  Health & wellness coaching is a collaborative process of self-discovery where
+  both client and coach work together to achieve life-enhancing goals while
+  identifying the obstacles that cause the repetitive self-defeating behaviors
+  that keep one from attaining significant progress.
 app_links: []
 isBasedOnUrl: 'https://spencerforhigher.acuityscheduling.com/schedule.php'
 title: What is Coaching?
-datePublished: '2017-06-23T23:20:54.398Z'
-dateModified: '2017-06-23T23:20:53.424Z'
+datePublished: '2018-02-18T21:37:22.312Z'
+dateModified: '2018-02-18T21:37:21.740Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-14-spencer-for-higher.md
@@ -22,9 +26,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/896e425b9e532e9192684b42e31920fe306ff49e.png" /><h1>What is Coaching?</h1><p>Schedule your appointment online and discover your higher abilities!</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/896e425b9e532e9192684b42e31920fe306ff49e.png" /><h1>What is Coaching?</h1><p>Health &amp; wellness coaching is a collaborative process of self-discovery where both client and coach work together to achieve life-enhancing goals while identifying the obstacles that cause the repetitive self-defeating behaviors that keep one from attaining significant progress.</p></article>
 
 [Free Coaching Session!][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89b80220-9a92-40a6-b486-bff1f9507db6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a04a8dc-e3fd-4f06-9b7f-f5ecb0e23099.jpg)
 
 [0]: https://spencerforhigher.acuityscheduling.com/schedule.php
