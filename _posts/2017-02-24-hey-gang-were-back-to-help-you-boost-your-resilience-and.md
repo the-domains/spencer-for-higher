@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Hey, gang! We're back to help you boost your resilience and courage in just
   three mindful steps!
-dateModified: '2017-06-23T23:20:53.424Z'
-datePublished: '2017-06-23T23:20:54.487Z'
+dateModified: '2018-02-18T21:24:43.823Z'
+datePublished: '2018-02-18T21:24:45.336Z'
 title: ''
 author: []
 publisher: {}
