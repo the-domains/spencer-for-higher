@@ -1,9 +1,9 @@
 ---
-datePublished: '2018-02-18T21:44:55.855Z'
+datePublished: '2018-02-22T20:08:40.128Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-02-18T21:44:54.793Z'
+dateModified: '2018-02-22T20:08:39.139Z'
 title: It’s Yoga Time. We’re psyched!
 publisher: {}
 description: Ava and Dad ready to indulge in our daily practice...
