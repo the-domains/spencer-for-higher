@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-08T19:43:49.650Z'
-datePublished: '2018-03-08T19:43:50.329Z'
+dateModified: '2018-03-08T19:44:52.086Z'
+datePublished: '2018-03-08T19:44:53.537Z'
 title: What is Coaching?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-03-08-what-is-coaching.md
 starred: false
 datePublishedOriginal: '2018-03-08T19:43:50.329Z'
-sourcePath: _posts/2018-03-08-what-is-coaching.md
 _type: Blurb
 
 ---
