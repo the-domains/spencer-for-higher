@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://spencerforhigher.acuityscheduling.com/schedule.php'
 title: What is Coaching?
-datePublished: '2018-03-01T16:36:18.718Z'
-dateModified: '2018-03-01T16:36:17.819Z'
+datePublished: '2018-03-08T19:44:53.510Z'
+dateModified: '2018-03-08T19:44:52.086Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-14-spencer-for-higher.md
