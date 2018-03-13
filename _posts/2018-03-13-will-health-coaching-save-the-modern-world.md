@@ -24,18 +24,20 @@ app_links:
     package: '306621789'
     namespace: google
     type: ios
-isBasedOnUrl: >-
-  https://www.huffingtonpost.com/entry/will-health-coaching-save-the-modern-world_us_58a5b2d0e4b0fa149f9ac231
 title: Will Health Coaching Save the Modern World?
-datePublished: '2018-03-13T18:30:35.520Z'
-dateModified: '2018-03-13T18:30:34.689Z'
+datePublished: '2018-03-13T18:36:56.638Z'
+dateModified: '2018-03-13T18:36:56.211Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-13-will-health-coaching-save-the-modern-world.md
 starred: false
 datePublishedOriginal: '2018-03-13T18:13:35.487Z'
+hasPage: true
+url: will-health-coaching-save-the-modern-world/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><img src="https://img.huffingtonpost.com/asset/58a5c986290000fe16f26c8c.jpg?ops=1910_1000" /><h1>Will Health Coaching Save the Modern World?</h1><p>It's an unfortunate reality that healthcare costs are rising at rapid rates. According to the 2016 Kaiser/HRET Employer Health Benefits report, the cost of the average family plan rose faster than wages and inflation since 2015 -- up 3.4 percent to $18, 142, the highest spike in 32 years.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13b1e49c-d5a2-415e-bd95-1671dfcf43a9.jpg)
