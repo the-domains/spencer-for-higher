@@ -20,8 +20,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.spencerforhigher.com/'
 title: ''
-datePublished: '2018-03-08T19:44:53.537Z'
-dateModified: '2018-03-08T19:44:52.086Z'
+datePublished: '2018-03-13T18:14:20.134Z'
+dateModified: '2018-03-13T18:14:18.920Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-04-higher-musings.md
