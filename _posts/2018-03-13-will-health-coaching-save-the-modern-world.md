@@ -27,13 +27,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.huffingtonpost.com/entry/will-health-coaching-save-the-modern-world_us_58a5b2d0e4b0fa149f9ac231
 title: Will Health Coaching Save the Modern World?
-datePublished: '2018-03-13T18:13:35.487Z'
-dateModified: '2018-03-13T18:13:34.579Z'
-datePublishedOriginal: '2018-03-13T18:13:35.487Z'
+datePublished: '2018-03-13T18:14:20.131Z'
+dateModified: '2018-03-13T18:14:18.920Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-03-13-will-health-coaching-save-the-modern-world.md
+starred: false
+datePublishedOriginal: '2018-03-13T18:13:35.487Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
