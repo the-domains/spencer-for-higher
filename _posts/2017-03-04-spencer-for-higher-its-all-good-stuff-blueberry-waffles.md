@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=BH0wdY0GDpo'
 title: Hungry for change?
-datePublished: '2018-03-13T18:14:20.196Z'
-dateModified: '2018-03-13T18:14:18.920Z'
+datePublished: '2018-03-18T20:31:00.771Z'
+dateModified: '2018-03-18T20:30:58.641Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-04-spencer-for-higher-its-all-good-stuff-blueberry-waffles.md
