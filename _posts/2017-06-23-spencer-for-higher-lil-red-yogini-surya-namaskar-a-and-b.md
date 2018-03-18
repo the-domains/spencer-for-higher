@@ -68,8 +68,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/dpfT7uW-4hE'
 title: Spencer for Higher - Lil' Red Yogini - Surya Namaskar A & B Warmup!
-datePublished: '2018-03-13T18:14:20.192Z'
-dateModified: '2018-03-13T18:14:18.920Z'
+datePublished: '2018-03-18T20:31:00.790Z'
+dateModified: '2018-03-18T20:30:58.641Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-23-spencer-for-higher-lil-red-yogini-surya-namaskar-a-and-b.md
