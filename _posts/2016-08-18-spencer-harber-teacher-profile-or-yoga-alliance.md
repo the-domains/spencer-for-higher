@@ -7,8 +7,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://www.yogaalliance.org/TeacherPublicProfile?tid=151509'
 title: ''
-datePublished: '2018-03-18T20:31:00.833Z'
-dateModified: '2018-03-18T20:30:58.641Z'
+datePublished: '2018-04-29T16:13:40.189Z'
+dateModified: '2018-04-29T16:13:38.726Z'
 via: {}
 sourcePath: _posts/2016-08-18-spencer-harber-teacher-profile-or-yoga-alliance.md
 inFeed: true
