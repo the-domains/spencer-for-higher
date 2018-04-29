@@ -25,8 +25,8 @@ app_links:
     namespace: google
     type: ios
 title: Will Health Coaching Save the Modern World?
-datePublished: '2018-03-18T20:31:00.769Z'
-dateModified: '2018-03-18T20:30:58.641Z'
+datePublished: '2018-04-29T16:13:40.159Z'
+dateModified: '2018-04-29T16:13:38.726Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-13-will-health-coaching-save-the-modern-world.md
