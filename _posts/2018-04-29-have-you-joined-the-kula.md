@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-04-29T16:13:38.726Z'
-datePublished: '2018-04-29T16:13:40.122Z'
+dateModified: '2018-04-29T16:18:12.136Z'
+datePublished: '2018-04-29T16:18:13.868Z'
 title: Have you Joined the Kula?
 author:
   - url: 'http://kuladudes.com/'
 publisher: {}
 via: {}
 sourcePath: _posts/2018-04-29-have-you-joined-the-kula.md
+isBasedOnUrl: 'http://kuladudes.com/'
 starred: false
 datePublishedOriginal: '2018-04-29T16:12:19.006Z'
-_type: Blurb
+_type: MediaObject
 
 ---
 # Have you Joined the Kula?
