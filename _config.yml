@@ -46,7 +46,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3a80009-9759-476f-9b68-3520e80c8025.png
-title: Spencer for Higher LLC
+title: Spencer for Higher
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -89,7 +89,6 @@ content:
         humorous tips on wellness, yoga, plant-based cooking, massage, intimacy,
         relationships, and anything else that supports your journey towards your
         higher self!
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=tv9CShrX4Ys&feature=applinks'
